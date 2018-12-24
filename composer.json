@@ -1,0 +1,16 @@
+{
+    "name": "fakhrinf/telegrambot",
+    "description": "telegram bot with php cli",
+    "type": "project",
+    "require": {
+        "irazasyed/telegram-bot-sdk": "^2.0",
+        "league/climate":"3.4.1",
+        "splitbrain/php-cli":"1.1.4"
+    },
+    "authors": [
+        {
+            "name": "Fakhrinf",
+            "email": "fakhrinf@hotmail.com"
+        }
+    ]
+}
